@@ -8,7 +8,8 @@ You can also achieve the same and write CSS and use the classes inside HTML.
 
 Already existing and planned content:
 
-- [Cards](cards-col/index.html)
+- [Cards (stacked)](cards-col/index.html)
+- [Cards (side-by-side)](cards-row/index.html)
 - Tables
 - Typography
 - Colors
